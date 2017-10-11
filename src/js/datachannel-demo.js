@@ -6,7 +6,7 @@ var datachannel = new DataChannel();
 datachannel.userid = window.userid;
 
 // Open a connection to Pusher
-var pusher = new Pusher("PUSHER_APP_KEY", { cluster: "PUSHER_APP_CLUSTER" });
+var pusher = new Pusher("c78f3766dab19de445a2", { cluster: "ap2" });
 
 // Storage of Pusher connection socket ID
 var socketId;
