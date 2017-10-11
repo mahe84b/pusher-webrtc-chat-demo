@@ -1,8 +1,8 @@
 <?php
 error_reporting(E_ALL);
 
-define("APP_ID", "PUSHER_APP_ID");
-define("APP_KEY", "PUSHER_APP_KEY");
-define("APP_SECRET", "PUSHER_APP_SECRET");
-define("APP_CLUSTER", "PUSHER_APP_CLUSTER");
+define("APP_ID", "412761");
+define("APP_KEY", "c78f3766dab19de445a2");
+define("APP_SECRET", "d2b7eb930e62ee8664b2");
+define("APP_CLUSTER", "ap2");
 ?>
